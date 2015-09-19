@@ -1,0 +1,7 @@
+name: dslink_google_analytics
+description: Google Analytics DSLink
+dependencies:
+  dslink:
+    git: git://github.com/IOT-DSA/sdk-dslink-dart.git
+  googleapis: "^0.14.0"
+  googleapis_auth: "^0.2.3+1"
